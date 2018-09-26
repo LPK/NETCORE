@@ -1,0 +1,11 @@
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.deps.json
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.runtimeconfig.json
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.runtimeconfig.dev.json
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.dll
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.pdb
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.csprojAssemblyReference.cache
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.csproj.CoreCompileInputs.cache
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.AssemblyInfoInputs.cache
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.AssemblyInfo.cs
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.dll
+D:\MyStudy\NetCore\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.pdb
