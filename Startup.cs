@@ -51,6 +51,9 @@ namespace InterviewAPI
                 app.UseDeveloperExceptionPage();
             }
 
+            //to get the static files to browser in in wwwroot folder / need to enable this property 
+            app.UseStaticFiles();
+
             app.UseCors("CorsPolicy");
             app.UseMvc();
         }
